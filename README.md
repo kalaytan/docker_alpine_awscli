@@ -1,4 +1,4 @@
 # Alpine - AWS CLI
 Light version of AWS CLI 
 
-docker run -it kalaytan/docker_alpine_awscli:latest /bin/ash
+docker run -it kalaytan/alpine_awscli:latest /bin/ash
